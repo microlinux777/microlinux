@@ -3,7 +3,9 @@
 
 Status: Draft  
 Author: Microlinux  
-Date: 2026-03-01  
+Founder: Ahmad Alfuhaed  
+Project Page: https://ahmad.sug-b.com/microlinux/  
+Date: 2026-03-01
 
 ---
 
