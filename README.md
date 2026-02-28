@@ -1,5 +1,8 @@
 # Microlinux
 
+Founded by **Ahmad Alfuhaed**  
+Official Website: https://ahmad.sug-b.com/microlinux/
+
 Microlinux is a research-driven project focused on designing and evaluating an Energy-Aware Scheduler layer for the Linux kernel.
 
 The goal is not to rewrite an operating system from scratch, but to explore a fundamental architectural question:
