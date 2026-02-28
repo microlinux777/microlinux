@@ -54,3 +54,13 @@ Microlinux explores whether energy cost can become a scheduling primitive.
 ---
 
 ## Repository Structure
+
+---
+
+## Founder
+
+Ahmad Alfuhaed  
+Project Founder & Vision Architect  
+
+Official project page:  
+https://ahmad.sug-b.com/microlinux/
